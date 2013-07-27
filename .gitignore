@@ -1,0 +1,10 @@
+*.pyc
+*.suo
+*.user
+DjangoWAWSLogging/env/.ptvs/
+bin/
+obj/
+DjangoWAWSLogging/PublishProfiles/DjangoWAWSLogging - FTP.pubxml
+DjangoWAWSLogging/PublishProfiles/DjangoWAWSLogging - Web Deploy.pubxml
+DjangoWAWSLogging/django.log
+DjangoWAWSLogging/django.lock
